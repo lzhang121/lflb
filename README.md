@@ -24,9 +24,6 @@ Charlie
 Use environment variables so the password is not saved in the command history:
 
 ```powershell
-$env:LFLB_USERNAME = "test"
-$env:LFLB_PASSWORD = "test1230"
-$env:LFLB_TENANT_CODE = "bssapp_esrdc"
 python .\export_attendance.py
 ```
 
