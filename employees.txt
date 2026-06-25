@@ -1,0 +1,3 @@
+# One staff name per line.
+# Example:
+吴燕玉、王会艳、张春蕾、鲁雪、刘美荣
